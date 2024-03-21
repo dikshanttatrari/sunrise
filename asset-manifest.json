@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/sunrise-public-school/static/css/main.a6c7b03d.css",
+    "main.js": "/sunrise-public-school/static/js/main.f29afca0.js",
+    "static/media/img11.jpeg": "/sunrise-public-school/static/media/img11.799051b1d58c74faec41.jpeg",
+    "static/media/img10.jpeg": "/sunrise-public-school/static/media/img10.df1c2eb8de8378267700.jpeg",
+    "static/media/img2.jpeg": "/sunrise-public-school/static/media/img2.a168bf4540b3428f52bb.jpeg",
+    "static/media/img12.jpeg": "/sunrise-public-school/static/media/img12.5e9596fae701892b0c8c.jpeg",
+    "static/media/img8.jpeg": "/sunrise-public-school/static/media/img8.12c1577b44b4923bca25.jpeg",
+    "static/media/img9.jpeg": "/sunrise-public-school/static/media/img9.0d087744a51eba42aabe.jpeg",
+    "static/media/img17.jpeg": "/sunrise-public-school/static/media/img17.02ebc787c5c2bdf62be0.jpeg",
+    "static/media/img1.jpeg": "/sunrise-public-school/static/media/img1.9b25e9fc7315cd4c0b5c.jpeg",
+    "static/media/img21.jpeg": "/sunrise-public-school/static/media/img21.ca3c8295e21ef097a11f.jpeg",
+    "static/media/img16.jpeg": "/sunrise-public-school/static/media/img16.6d39467f695495aa6b7e.jpeg",
+    "static/media/img26.jpeg": "/sunrise-public-school/static/media/img26.b6902f59915ee1ff87d8.jpeg",
+    "static/media/img27.jpeg": "/sunrise-public-school/static/media/img27.0819a05cd31f0875b695.jpeg",
+    "static/media/img28.jpeg": "/sunrise-public-school/static/media/img28.9b53cabdc0c978796d99.jpeg",
+    "static/media/img24.jpeg": "/sunrise-public-school/static/media/img24.9222c36884eb5b6a0840.jpeg",
+    "static/media/img25.jpeg": "/sunrise-public-school/static/media/img25.9222c36884eb5b6a0840.jpeg",
+    "static/media/img22.jpeg": "/sunrise-public-school/static/media/img22.8707e71441371c2e8629.jpeg",
+    "static/media/img23.jpeg": "/sunrise-public-school/static/media/img23.965884b0b652a2c6c309.jpeg",
+    "static/media/img18.jpeg": "/sunrise-public-school/static/media/img18.1933dc31dc10dd3a4d44.jpeg",
+    "static/media/img14.jpeg": "/sunrise-public-school/static/media/img14.d8534ed3b865a3fb4f31.jpeg",
+    "static/media/img19.jpeg": "/sunrise-public-school/static/media/img19.44656da69389f6321b7b.jpeg",
+    "static/media/img15.jpeg": "/sunrise-public-school/static/media/img15.118cc9e70b2a8e181cb5.jpeg",
+    "static/media/img20.jpeg": "/sunrise-public-school/static/media/img20.a29913a563ec93bd8061.jpeg",
+    "static/media/img13.jpeg": "/sunrise-public-school/static/media/img13.6178bbdfb5812fa1bece.jpeg",
+    "static/media/img7.jpeg": "/sunrise-public-school/static/media/img7.96445d7854279b657ded.jpeg",
+    "static/media/img6.jpeg": "/sunrise-public-school/static/media/img6.61d419d57adad54d8607.jpeg",
+    "static/media/img5.jpeg": "/sunrise-public-school/static/media/img5.b82013f8b7d9fa8837b2.jpeg",
+    "static/media/img3.jpeg": "/sunrise-public-school/static/media/img3.0c0eba403f236d638686.jpeg",
+    "static/media/img4.jpeg": "/sunrise-public-school/static/media/img4.c5e4da3b8335e5672dd6.jpeg",
+    "static/media/sunrise_logo.png": "/sunrise-public-school/static/media/sunrise_logo.fd87cce3821b8f61a185.png",
+    "index.html": "/sunrise-public-school/index.html",
+    "main.a6c7b03d.css.map": "/sunrise-public-school/static/css/main.a6c7b03d.css.map",
+    "main.f29afca0.js.map": "/sunrise-public-school/static/js/main.f29afca0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6c7b03d.css",
+    "static/js/main.f29afca0.js"
+  ]
+}
