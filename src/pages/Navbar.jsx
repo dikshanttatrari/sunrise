@@ -26,8 +26,8 @@ function Navbar() {
   return (
     <div className='navbar' id='home'> 
       <div className='logoContainer'>
-      <a href="https://www.sunrise-public-school.js.org"><img src={logo} alt="logo" className='logo'/></a>
-      <a href="https://www.sunrise-public-school.js.org"><p className='logoText'>Sunrise Public School</p></a>
+      <a href="https://www.sunrise-public-school.uk.to"><img src={logo} alt="logo" className='logo'/></a>
+      <a href="https://www.sunrise-public-school.uk.to"><p className='logoText'>Sunrise Public School</p></a>
       </div>
       <div className='menu'>
       <RiMenu2Fill size={26} className='menu-icon' id='menu' onClick={toggleMenu} />
